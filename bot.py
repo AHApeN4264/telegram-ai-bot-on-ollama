@@ -13,7 +13,7 @@ from decimal import Decimal, getcontext
 import aiohttp
 import json
 
-TOKEN = "7599647303:AAH_Nz2SaW3fuGLkgdUakw8yj81JoZukJCQ"
+TOKEN = ""
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
